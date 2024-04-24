@@ -1,0 +1,40 @@
+/* SF Pro Display */
+@font-face {
+  font-family: 'SFProDisplay';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(./fonts/SF-UI-Display-Light.ttf);
+}
+
+@font-face {
+  font-family: 'SFProDisplay';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./fonts/SF-UI-Display-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'SFProDisplay';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(./fonts/SF-UI-Display-Semibold.ttf);
+}
+
+@font-face {
+  font-family: 'SFProDisplay';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(./fonts/SF-UI-Display-Bold.ttf);
+}
+
+@font-face {
+  font-family: 'SFProDisplay';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(./fonts/SF-Pro-Display-Heavy.otf);
+}
